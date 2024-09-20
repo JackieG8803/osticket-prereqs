@@ -15,7 +15,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b>
+- Windows 10 Pro (22H2)</b>
 
 <h2>List of Prerequisites</h2>
 
