@@ -52,8 +52,8 @@ Next we will install PHPmanager and Rewrite Module. Go ahead and go through the 
 
 ![2 PHP1](https://github.com/user-attachments/assets/88a74252-20ab-48c5-9c95-8ff945246a11)
 
-<p>Next, we must create a directory in our C:</p>
-<p>Navigate to your C: and create a new folder titled 'PHP'. This is where we will unzip the php-7.3.8-nts-Win32-VC15-x86.zip file into our PHP folder. </p>
+<p>Next, we must create a directory in our C:\</p>
+<p>Navigate to your C:\ and create a new folder titled 'PHP'. This is where we will unzip the php-7.3.8-nts-Win32-VC15-x86.zip file into our PHP folder. </p>
 
 ![2 PHP2](https://github.com/user-attachments/assets/a93188fb-ae5c-461f-9c81-46bb3827bd9b)
 ![2 PHP3](https://github.com/user-attachments/assets/92b38ff2-1773-47d1-9d14-797d3fc73ad3)
