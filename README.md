@@ -31,9 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-First, download the provided osTicket Installation files. This will contain the necessary dependencies osTicket requires for us to use it in our VM. 
+First, download the provided osTicket Installation files. This will contain the necessary dependencies osTicket requires for us to use it in our VM. We will download those files onto our desktop and extract the files there. 
   <B>Note: this tutorial is made for a VM test environment so some of the configurations are not ideal in a real-world enterprise setting</B>
-  We will download those files onto our desktop and extract the files there.
+
 </p>
 <p>
 Next, we're going to enable IIS (Internet Information Services) 
